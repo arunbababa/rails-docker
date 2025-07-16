@@ -69,6 +69,6 @@ http://localhost:3000
 
 以下のような表示がされていれば、セットアップは完了です。
 
-![alt text](image.png)
+![alt text](forREADME.png)
 
 ---
